@@ -4,6 +4,24 @@
 - :cupid: Me ha encantado la programación desde que tengo conocimiento de su existencia, desde la secundaria ya tenía el deseo de estudiar algo relacionado con las computadoras
 - :books: Estoy interesado y estudiando varios ámbitos como lo son el desarrollo de aplicaciones web, de escritorio, móviles, programación de Arduino y Raspberry Pi.
 
+Esta es mi cuenta académica, puedes encontrar mi cuenta personal con proyectos personales como [RulasBoy](https://github.com/RulasBoy).
 
+Lenguajes de programación que he manejado:
+* Python
+* Java
+* C#
+* JavaScript
+* C++
+* C
+* PHP
 
-Esta es mi cuenta académica, puedes encontrar mi cuenta personal, con proyectos personales como [RulasBoy](https://github.com/RulasBoy)
+Sé utilizar bien gestores de bases de datos para MySQL y SQL Server; tengo pendiente aprender bases de datos NoSQL.
+
+Tipos de proyectos en los que he trabajado:
+* Aplicaciones web
+* Aplicaciones móviles
+* Aplicaciones de escritorio
+* Arduino
+* Rasbperry Pi
+
+Últimamente he trabajado con Raspberry Pi 4, tengo pendiente utilizar la Raspberry Pi Pico.
