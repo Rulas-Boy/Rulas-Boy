@@ -25,11 +25,3 @@ Tipos de proyectos en los que he trabajado:
 * Rasbperry Pi
 
 Últimamente he trabajado con Raspberry Pi 4, tengo pendiente utilizar la Raspberry Pi Pico.
-
-![](https://images.cooltext.com/5548678.png)
-
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
-
-| Lunes         | Martes        | Miércoles     | Jueves        | Viernes       |
-|---------------|---------------|---------------|---------------|---------------|
-| 17:00 - 18:00 | 17:00 - 18:00 | 17:00 - 18:00 | 17:00 - 18:00 |               |
